@@ -1,3 +1,4 @@
+## https://atcoder.jp/contests/abc287/tasks/abc287_c
 //条件1：v(i)到v(i+1)之间有边	度数为1的点：2个  得是连通的
 //条件2：v(i)到v(i+k) k>=2之间没边 每个点的度数不能>=3
 #include <bits/stdc++.h>
